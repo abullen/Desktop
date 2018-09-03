@@ -1,0 +1,8 @@
+{
+  "firstName" : "Mary",
+  "lastName" : "Little",
+  "displayHandle" : "maryhadalittlelamb",
+  "posts" :["Out to lunch with friends", "Studying late at school", "Going home for the long weekend"],
+  "age": 21,
+  "active": true
+}
