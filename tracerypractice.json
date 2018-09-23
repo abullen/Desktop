@@ -1,0 +1,58 @@
+{
+	"name": [
+		"Blake",
+		"Katrina",
+		"Ariana",
+		"Anne",
+		"Jackson",
+		"Eric"
+	],
+	"occupation": [
+		"computer technician",
+		"youtuber",
+		"police officer",
+		"hair dresser",
+		"teacher",
+		"social worker"
+	],
+	"origin": [
+		"#name# a #occupation#, was #always# #expecting# this #scandal# to #end# #place#. #who# took a #proof# of the incident."
+	],
+	"always": [
+		"never",
+		"almost",
+		"rarely"
+	],
+	"expecting": [
+		"anticipating",
+		"imagining",
+		"looking forward to"
+	],
+	"scandal": [
+		"pregnancy",
+		"murderer",
+		"rapid weight loss",
+		"megaladon"
+	],
+	"end": [
+		"make donald trump resign",
+		"kill kim kardashian",
+		"",
+		"destroy a family"
+	],
+	"place": [
+		"at a Disney World Resort",
+		"in Hawaii",
+		"at a local supermarket"
+	],
+	"who": [
+		"A kindergarten class",
+		"A scientist",
+		"A grandma"
+	],
+	"proof": [
+		"video",
+		"instagram live",
+		"picture"
+	]
+}
